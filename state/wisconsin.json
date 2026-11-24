@@ -1,0 +1,80 @@
+{
+ "name": "wisconsin",
+ "format": "JMVM 4",
+ "group": 780,
+ "bytes": 212484346,
+ "pieces": [
+  {
+   "file": "wisconsin-1.jmv",
+   "bytes": 28451548,
+   "sha256": "f02e220380ec9611cd0d1d8c8ec0ea840d709e49e39fd6307edc60170cf65d2f",
+   "south": 45.58329,
+   "west": -92.94434,
+   "north": 47.45781,
+   "east": -90.0
+  },
+  {
+   "file": "wisconsin-2.jmv",
+   "bytes": 25539601,
+   "sha256": "958a0edc86af21fe97552d96a55e84f9a3cabc47167edd6ec22d6ce429c56b8c",
+   "south": 45.08904,
+   "west": -90.0,
+   "north": 47.33882,
+   "east": -86.13281
+  },
+  {
+   "file": "wisconsin-3.jmv",
+   "bytes": 31929849,
+   "sha256": "39af531cd8a500ab9dcaefd4fb276d0453a06c0c5ea17437df110aa276725098",
+   "south": 44.59047,
+   "west": -92.94434,
+   "north": 45.58329,
+   "east": -90.0
+  },
+  {
+   "file": "wisconsin-4.jmv",
+   "bytes": 20706538,
+   "sha256": "51985cc7253e8c2dcace228358773c02cc3d3f589416f57eed715fd41ee9dce6",
+   "south": 44.08759,
+   "west": -90.0,
+   "north": 45.08904,
+   "east": -86.35254
+  },
+  {
+   "file": "wisconsin-5.jmv",
+   "bytes": 34382109,
+   "sha256": "a47ba475b3ec95a9d8e98f98e579b9ede04ffc92f77d2e7f2886e192b8a147f6",
+   "south": 43.58039,
+   "west": -92.68066,
+   "north": 44.59047,
+   "east": -90.0
+  },
+  {
+   "file": "wisconsin-6.jmv",
+   "bytes": 26227799,
+   "sha256": "7acf735057891a06c45b96cdebd50e5756dba9c6f62ed202b67e9ac7cc8a9222",
+   "south": 42.45589,
+   "west": -90.0,
+   "north": 44.08759,
+   "east": -88.59375
+  },
+  {
+   "file": "wisconsin-7.jmv",
+   "bytes": 17699250,
+   "sha256": "3dc2b91dabe43391f2adfa7d44855decb34b20234d6d1461ffa2096796a75c63",
+   "south": 42.45589,
+   "west": -88.59375,
+   "north": 44.08759,
+   "east": -86.66016
+  },
+  {
+   "file": "wisconsin-8.jmv",
+   "bytes": 27547652,
+   "sha256": "84cfe5a6d5c0d54eb333e8d394f44a8be80cf8f1f95df279cc05e47ed5cc9c9c",
+   "south": 42.45589,
+   "west": -91.31836,
+   "north": 43.58039,
+   "east": -90.0
+  }
+ ]
+}
