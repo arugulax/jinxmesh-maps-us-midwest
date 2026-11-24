@@ -1,0 +1,62 @@
+{
+ "name": "north-dakota",
+ "format": "JMVM 4",
+ "group": 40876,
+ "bytes": 177505918,
+ "pieces": [
+  {
+   "file": "north-dakota-1.jmv",
+   "bytes": 40320205,
+   "sha256": "6305103d656a77a56dee432e1155938bb470e2949dd84f3666b3afc08789a7b7",
+   "south": 47.5172,
+   "west": -104.10645,
+   "north": 49.03787,
+   "east": -101.25
+  },
+  {
+   "file": "north-dakota-2.jmv",
+   "bytes": 35798972,
+   "sha256": "cd6e34daf9c976a0d13d0a904d41eb7bb3ad2f6389cab3f5c3e332174e3a4399",
+   "south": 47.5172,
+   "west": -101.25,
+   "north": 49.06667,
+   "east": -96.76758
+  },
+  {
+   "file": "north-dakota-3.jmv",
+   "bytes": 30374005,
+   "sha256": "63c9df3add8622b70ea8850e37c20c1fc1dfd39cccc3971e33a789b265b14b99",
+   "south": 45.89001,
+   "west": -104.10645,
+   "north": 47.5172,
+   "east": -102.65625
+  },
+  {
+   "file": "north-dakota-4.jmv",
+   "bytes": 22143367,
+   "sha256": "c26bbc62860841fef5ef41bf92e8b5511a3e00ff5e907bb0b1b5cb10d972abd4",
+   "south": 45.89001,
+   "west": -102.65625,
+   "north": 47.5172,
+   "east": -101.25
+  },
+  {
+   "file": "north-dakota-5.jmv",
+   "bytes": 27265687,
+   "sha256": "07eb365ca96f3827cb49d7fe449b80ac8715d6edcb30eb059e9e902016d78c0c",
+   "south": 45.89001,
+   "west": -101.25,
+   "north": 47.5172,
+   "east": -99.14062
+  },
+  {
+   "file": "north-dakota-6.jmv",
+   "bytes": 21603682,
+   "sha256": "d5a52dd53411516ae46d6c1dd18777e163132d2086ad2061c51b36c87ab3dfad",
+   "south": 45.89001,
+   "west": -99.14062,
+   "north": 47.5172,
+   "east": -96.50391
+  }
+ ]
+}
