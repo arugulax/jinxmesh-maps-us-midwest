@@ -1,0 +1,71 @@
+{
+ "name": "iowa",
+ "format": "JMVM 4",
+ "group": 54178,
+ "bytes": 179743408,
+ "pieces": [
+  {
+   "file": "iowa-1.jmv",
+   "bytes": 32482661,
+   "sha256": "54131d9cbe7cc8def8e8c9d8eb68e5db6830c6d4e1d1d40201b20123361b7b12",
+   "south": 42.03297,
+   "west": -96.72363,
+   "north": 43.54855,
+   "east": -93.51562
+  },
+  {
+   "file": "iowa-2.jmv",
+   "bytes": 25874652,
+   "sha256": "4521b03bf301769eb6ff44df9c7df22f73d30a5033615d9c7bb6525dd77336c5",
+   "south": 42.03297,
+   "west": -93.51562,
+   "north": 43.54855,
+   "east": -91.40625
+  },
+  {
+   "file": "iowa-3.jmv",
+   "bytes": 19504457,
+   "sha256": "f0217326d4eeb1db3602ccb6fc965ed4598e2e1e84b3d345d51fb66d3f162fe2",
+   "south": 42.03297,
+   "west": -91.40625,
+   "north": 43.54855,
+   "east": -90.08789
+  },
+  {
+   "file": "iowa-4.jmv",
+   "bytes": 20446047,
+   "sha256": "71470289643823cee0ec2ffc9c849f36d9a85eeb1bbfb1780e130a4f0ad3e401",
+   "south": 40.5472,
+   "west": -96.32812,
+   "north": 42.03297,
+   "east": -94.92188
+  },
+  {
+   "file": "iowa-5.jmv",
+   "bytes": 28296775,
+   "sha256": "7a1f4c2600f7a2c5a0c16655ae5fef966dc896f36a620f6310e1afabc20515ac",
+   "south": 40.5138,
+   "west": -94.92188,
+   "north": 42.03297,
+   "east": -93.51562
+  },
+  {
+   "file": "iowa-6.jmv",
+   "bytes": 27946003,
+   "sha256": "8765495a0fe91e6edc7c1140f224cd94e44896a9329ed38ed4d6d08f1e144123",
+   "south": 40.5472,
+   "west": -93.51562,
+   "north": 42.03297,
+   "east": -92.10938
+  },
+  {
+   "file": "iowa-7.jmv",
+   "bytes": 25192813,
+   "sha256": "49888dc0b5d0a98a45c821fbfb031dc7d169b3f0319f372136ac96c4a3c4e377",
+   "south": 40.31304,
+   "west": -92.10938,
+   "north": 42.03297,
+   "east": -90.08789
+  }
+ ]
+}
