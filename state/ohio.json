@@ -1,0 +1,62 @@
+{
+ "name": "ohio",
+ "format": "JMVM 4",
+ "group": 31982,
+ "bytes": 215851573,
+ "pieces": [
+  {
+   "file": "ohio-1.jmv",
+   "bytes": 37762360,
+   "sha256": "4f6ac1399043220798d18ae26e9f102a00bf40cdb99fa54deee5bd43ce8baaa8",
+   "south": 39.90974,
+   "west": -82.96875,
+   "north": 42.1634,
+   "east": -81.5625
+  },
+  {
+   "file": "ohio-2.jmv",
+   "bytes": 41720118,
+   "sha256": "b37ba31fdf3f69ef73a6783b597cee0b7aa74396ba246f4de5253264fb04428c",
+   "south": 39.90974,
+   "west": -81.5625,
+   "north": 42.39101,
+   "east": -80.41992
+  },
+  {
+   "file": "ohio-3.jmv",
+   "bytes": 25853535,
+   "sha256": "58a207722b30653a52b26a692de69a0f0273a40810099e28a70c6562ddfac687",
+   "south": 39.90974,
+   "west": -84.8584,
+   "north": 42.00033,
+   "east": -82.96875
+  },
+  {
+   "file": "ohio-4.jmv",
+   "bytes": 39624811,
+   "sha256": "8baded754702da66baa6c400c89baa14afb03466f38277902e718857fa3700c6",
+   "south": 38.54817,
+   "west": -84.90234,
+   "north": 39.90974,
+   "east": -82.96875
+  },
+  {
+   "file": "ohio-5.jmv",
+   "bytes": 31160708,
+   "sha256": "b13e4890fa95a191714afa320b309aaedc320140999446a4fd0df0d553987525",
+   "south": 38.34166,
+   "west": -82.96875,
+   "north": 39.90974,
+   "east": -82.26562
+  },
+  {
+   "file": "ohio-6.jmv",
+   "bytes": 39730041,
+   "sha256": "2477d21cc6bbabfe148829ae952690325cb2c44a148474b266e3bc166463f2bd",
+   "south": 38.37612,
+   "west": -82.26562,
+   "north": 39.90974,
+   "east": -80.68359
+  }
+ ]
+}
