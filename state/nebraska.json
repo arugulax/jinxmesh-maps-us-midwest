@@ -1,0 +1,80 @@
+{
+ "name": "nebraska",
+ "format": "JMVM 4",
+ "group": 36101,
+ "bytes": 232937321,
+ "pieces": [
+  {
+   "file": "nebraska-1.jmv",
+   "bytes": 33391249,
+   "sha256": "f347a9d8772a54e2af97f732e999e91f65c6d4728fcdb42b3d0646fd456df701",
+   "south": 42.03297,
+   "west": -104.10645,
+   "north": 43.03678,
+   "east": -101.25
+  },
+  {
+   "file": "nebraska-2.jmv",
+   "bytes": 27421530,
+   "sha256": "588e6db63de9f8f7ee78be6426f29fe23ee52645b8674716d85233a15c98d11d",
+   "south": 41.50858,
+   "west": -101.25,
+   "north": 43.03678,
+   "east": -99.84375
+  },
+  {
+   "file": "nebraska-3.jmv",
+   "bytes": 33279134,
+   "sha256": "6d401b19059a8196d5cd58394dff20343ec916148ab8da941d6294fc324f481b",
+   "south": 41.50858,
+   "west": -99.84375,
+   "north": 43.03678,
+   "east": -97.73438
+  },
+  {
+   "file": "nebraska-4.jmv",
+   "bytes": 29195947,
+   "sha256": "35cd63de8cbc71a3937696da807e50682fae99f768d3a1ba09d58803f2e71139",
+   "south": 40.9799,
+   "west": -97.73438,
+   "north": 42.90816,
+   "east": -95.75684
+  },
+  {
+   "file": "nebraska-5.jmv",
+   "bytes": 34344731,
+   "sha256": "3eab580db589aea1e90152269d3b26d321921a74b4e6c9bb1e1a9b4ced7ff770",
+   "south": 39.94344,
+   "west": -104.10645,
+   "north": 42.03297,
+   "east": -101.25
+  },
+  {
+   "file": "nebraska-6.jmv",
+   "bytes": 27309355,
+   "sha256": "179b44bc6e66e52b90423e6a49075046891e773970e60543810f9959daf48495",
+   "south": 39.97712,
+   "west": -101.25,
+   "north": 41.50858,
+   "east": -99.84375
+  },
+  {
+   "file": "nebraska-7.jmv",
+   "bytes": 29457245,
+   "sha256": "324ca2354282e73e394ed355e3a7c7eeca34da08624afd4dfd9ce2a7bb0b5581",
+   "south": 39.97712,
+   "west": -99.84375,
+   "north": 41.50858,
+   "east": -97.73438
+  },
+  {
+   "file": "nebraska-8.jmv",
+   "bytes": 18538130,
+   "sha256": "12d1f9839a70c5d2b75a18a1a3df075ef100a4f4fa70e9f8ec946085d82f05ae",
+   "south": 39.94344,
+   "west": -97.73438,
+   "north": 40.9799,
+   "east": -95.22949
+  }
+ ]
+}
