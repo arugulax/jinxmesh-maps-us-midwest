@@ -1,0 +1,44 @@
+{
+ "name": "indiana",
+ "format": "JMVM 4",
+ "group": 31637,
+ "bytes": 124623310,
+ "pieces": [
+  {
+   "file": "indiana-1.jmv",
+   "bytes": 22777765,
+   "sha256": "1302498d8375a7e0acf76af6fec823f0bb489760f12c422e995e0278a1c39594",
+   "south": 39.36828,
+   "west": -87.6709,
+   "north": 41.80408,
+   "east": -86.48438
+  },
+  {
+   "file": "indiana-2.jmv",
+   "bytes": 38383672,
+   "sha256": "5354438556cd024ee7c717e4c717966f4f444da1c57b2d7f2aabaff8c5f687fd",
+   "south": 39.36828,
+   "west": -86.48438,
+   "north": 41.80408,
+   "east": -84.72656
+  },
+  {
+   "file": "indiana-3.jmv",
+   "bytes": 29165091,
+   "sha256": "697bdbb035ab3db910dc7bf38a7180f0b8ecbe8cec13e9f9782051a40068d925",
+   "south": 37.71859,
+   "west": -88.1543,
+   "north": 39.36828,
+   "east": -86.48438
+  },
+  {
+   "file": "indiana-4.jmv",
+   "bytes": 34296782,
+   "sha256": "e80e01d65e2bbac33101eb83195299cfbbceac2d30541532efbbbaa3bd4dc408",
+   "south": 37.8922,
+   "west": -86.48438,
+   "north": 39.36828,
+   "east": -84.72656
+  }
+ ]
+}
