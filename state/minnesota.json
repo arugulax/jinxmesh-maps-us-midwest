@@ -1,0 +1,80 @@
+{
+ "name": "minnesota",
+ "format": "JMVM 4",
+ "group": 32245,
+ "bytes": 228338812,
+ "pieces": [
+  {
+   "file": "minnesota-1.jmv",
+   "bytes": 31827746,
+   "sha256": "faad2684155b9fc31025de42e2e4fd7df1394494587fee91e5c5b91cc12c8522",
+   "south": 47.04018,
+   "west": -97.29492,
+   "north": 49.43956,
+   "east": -93.51562
+  },
+  {
+   "file": "minnesota-2.jmv",
+   "bytes": 28852920,
+   "sha256": "53cb97f8df1e44ec52d7c9d0225b8a0fefde1bb96ea00600226f7656f950ff34",
+   "south": 46.07323,
+   "west": -93.51562,
+   "north": 48.71996,
+   "east": -92.10938
+  },
+  {
+   "file": "minnesota-3.jmv",
+   "bytes": 28349211,
+   "sha256": "d8c73755448a61ccf178a84deafab0683e41c7b607c6da09ba8befc9ace25496",
+   "south": 46.64944,
+   "west": -92.10938,
+   "north": 48.40003,
+   "east": -89.42871
+  },
+  {
+   "file": "minnesota-4.jmv",
+   "bytes": 26147036,
+   "sha256": "e6a1c1e77d8fda8faf734e2da0463be06cbdf57273ed95f1149d01a32658ba9f",
+   "south": 46.07323,
+   "west": -96.89941,
+   "north": 47.04018,
+   "east": -93.51562
+  },
+  {
+   "file": "minnesota-5.jmv",
+   "bytes": 25726333,
+   "sha256": "b6a89cec5ec5485fd1113cf639925a0158ad3063ce7c7b29690191470ef62c1f",
+   "south": 45.08904,
+   "west": -96.94336,
+   "north": 46.07323,
+   "east": -93.51562
+  },
+  {
+   "file": "minnesota-6.jmv",
+   "bytes": 22485238,
+   "sha256": "f40adeab56114c93211f301c41ce1228ddbd29c872e3d9144358cd333bca9038",
+   "south": 44.59047,
+   "west": -93.51562,
+   "north": 46.07323,
+   "east": -92.24121
+  },
+  {
+   "file": "minnesota-7.jmv",
+   "bytes": 34224744,
+   "sha256": "2e66d4dba3054b8ae3c3ec31754be552507e398dd80c309bca2340935e3bb3d8",
+   "south": 43.45292,
+   "west": -96.50391,
+   "north": 45.08904,
+   "east": -93.51562
+  },
+  {
+   "file": "minnesota-8.jmv",
+   "bytes": 30725584,
+   "sha256": "19a3a4f2a18b30468f2dc7d9a0f49604dc36e36ff2a420e297175b5ea3ce427b",
+   "south": 43.45292,
+   "west": -93.51562,
+   "north": 44.59047,
+   "east": -91.14258
+  }
+ ]
+}
