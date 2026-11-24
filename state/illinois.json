@@ -1,0 +1,62 @@
+{
+ "name": "illinois",
+ "format": "JMVM 4",
+ "group": 19703,
+ "bytes": 167171312,
+ "pieces": [
+  {
+   "file": "illinois-1.jmv",
+   "bytes": 36401639,
+   "sha256": "c5fff63677a853c078232a7cc444d68d9d53ca9a5d1cfa28397020fc51609b37",
+   "south": 40.44695,
+   "west": -91.49414,
+   "north": 42.55308,
+   "east": -89.29688
+  },
+  {
+   "file": "illinois-2.jmv",
+   "bytes": 38775429,
+   "sha256": "17dbfd99201ac6e7c9758a404cee2eed89897390ce14385c6775b29a751e8e8d",
+   "south": 40.44695,
+   "west": -89.29688,
+   "north": 42.55308,
+   "east": -87.45117
+  },
+  {
+   "file": "illinois-3.jmv",
+   "bytes": 22766195,
+   "sha256": "caf1b463a5383731a7c58b72ced716f11bde1f1ad53576e7eff1b55218741fde",
+   "south": 39.36828,
+   "west": -91.58203,
+   "north": 40.44695,
+   "east": -89.29688
+  },
+  {
+   "file": "illinois-4.jmv",
+   "bytes": 18644958,
+   "sha256": "911070739ac5f97e8efe1eb36da978c451630e7c6b57596955272b0551451df7",
+   "south": 38.82259,
+   "west": -89.29688,
+   "north": 40.44695,
+   "east": -87.45117
+  },
+  {
+   "file": "illinois-5.jmv",
+   "bytes": 26564960,
+   "sha256": "ac9d24ed6448c61f25f4bbf4562836e7d0255c2ea358412d3aebea0c4e79606b",
+   "south": 36.94989,
+   "west": -91.01074,
+   "north": 39.36828,
+   "east": -89.29688
+  },
+  {
+   "file": "illinois-6.jmv",
+   "bytes": 24018131,
+   "sha256": "43b5d49fbe7bdbf3caa867e22480d2ab1d2db81b7e015e291d58db27a0e562ef",
+   "south": 36.91476,
+   "west": -89.29688,
+   "north": 38.82259,
+   "east": -87.40723
+  }
+ ]
+}
