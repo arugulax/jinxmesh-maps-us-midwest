@@ -1,0 +1,98 @@
+{
+ "name": "missouri",
+ "format": "JMVM 4",
+ "group": 9314,
+ "bytes": 288968951,
+ "pieces": [
+  {
+   "file": "missouri-1.jmv",
+   "bytes": 39607507,
+   "sha256": "dc009b43e9cc67e287da0b7229fc55725f8c27aadc7bd7aa89576b7cf5df2eca",
+   "south": 38.82259,
+   "west": -95.84473,
+   "north": 40.6473,
+   "east": -93.51562
+  },
+  {
+   "file": "missouri-2.jmv",
+   "bytes": 31922471,
+   "sha256": "afbe0bee15820fbe0321269baa88a3ab00422981779d21ea5efb5b60c8581fb5",
+   "south": 38.82259,
+   "west": -93.51562,
+   "north": 40.6473,
+   "east": -92.10938
+  },
+  {
+   "file": "missouri-3.jmv",
+   "bytes": 23036725,
+   "sha256": "76173daf5dafd3889fe3b66bbcbb7d0de671f034a4e01ecc418947d0de1f1a81",
+   "south": 38.82259,
+   "west": -92.10938,
+   "north": 40.68064,
+   "east": -90.04395
+  },
+  {
+   "file": "missouri-4.jmv",
+   "bytes": 35801619,
+   "sha256": "0402a915725cdaecdea6c3620ca07acd5691097d33a4c0a11535f5bcb16e485f",
+   "south": 37.71859,
+   "west": -94.70215,
+   "north": 38.82259,
+   "east": -92.10938
+  },
+  {
+   "file": "missouri-5.jmv",
+   "bytes": 25425659,
+   "sha256": "857d0cb910269933d3f6684062da9cc8e792e7ad58b1095521c5d58437a85d0b",
+   "south": 38.27269,
+   "west": -92.10938,
+   "north": 38.82259,
+   "east": -90.04395
+  },
+  {
+   "file": "missouri-6.jmv",
+   "bytes": 24622874,
+   "sha256": "fc697864d5dbfd4cf567bcc9bb7badc39d80fb7a429ac7c7935559100de1024d",
+   "south": 37.71859,
+   "west": -92.10938,
+   "north": 38.27269,
+   "east": -89.42871
+  },
+  {
+   "file": "missouri-7.jmv",
+   "bytes": 18655636,
+   "sha256": "49a245bf6de7317859e78d5e4f8551780911777be69ecc9e022bff771675df87",
+   "south": 36.45664,
+   "west": -94.70215,
+   "north": 37.71859,
+   "east": -93.51562
+  },
+  {
+   "file": "missouri-8.jmv",
+   "bytes": 32062142,
+   "sha256": "b5b2294fae12c1e447cac9005186489bf0ba75a8ce5e3ea338ff012e80587a65",
+   "south": 36.45664,
+   "west": -93.51562,
+   "north": 37.71859,
+   "east": -92.10938
+  },
+  {
+   "file": "missouri-9.jmv",
+   "bytes": 34448635,
+   "sha256": "3c7bd1895035df1b961cce14e5adc520e9dfddfe0ee651444ba6f2062d275127",
+   "south": 36.45664,
+   "west": -92.10938,
+   "north": 37.71859,
+   "east": -90.70312
+  },
+  {
+   "file": "missouri-10.jmv",
+   "bytes": 23385683,
+   "sha256": "d0114c2736cb5bd7219a0bf64a6ce5f29cd9cf343e7c6bd15274de8d71384684",
+   "south": 35.92464,
+   "west": -90.70312,
+   "north": 37.71859,
+   "east": -89.0332
+  }
+ ]
+}
