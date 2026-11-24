@@ -1,0 +1,62 @@
+{
+ "name": "michigan",
+ "format": "JMVM 4",
+ "group": 7284,
+ "bytes": 169318440,
+ "pieces": [
+  {
+   "file": "michigan-1.jmv",
+   "bytes": 36322844,
+   "sha256": "b79164b057d435a4737258bee86cba9108dce8beb031d440bec1bede9f01d472",
+   "south": 44.08759,
+   "west": -90.4834,
+   "north": 48.40003,
+   "east": -86.48438
+  },
+  {
+   "file": "michigan-2.jmv",
+   "bytes": 18721159,
+   "sha256": "b0864cd604639929a6989d50a64f52aee77b30908be78ffb3e6bad5d59815b42",
+   "south": 45.08904,
+   "west": -86.48438,
+   "north": 47.60616,
+   "east": -82.35352
+  },
+  {
+   "file": "michigan-3.jmv",
+   "bytes": 26832286,
+   "sha256": "d925cfee7401badeea06da3614df73dd099a001db286670976076cb7cc8a9d8b",
+   "south": 44.08759,
+   "west": -86.48438,
+   "north": 45.08904,
+   "east": -82.13379
+  },
+  {
+   "file": "michigan-4.jmv",
+   "bytes": 15294271,
+   "sha256": "b1314a286ea41e2cac0fde114e205744015c8843b9fe040dd88662897f6474ed",
+   "south": 41.70573,
+   "west": -87.40723,
+   "north": 44.08759,
+   "east": -85.78125
+  },
+  {
+   "file": "michigan-5.jmv",
+   "bytes": 32851207,
+   "sha256": "9b2410c2d74785ce198e7f3afbfbc04dc9ac53622535082c016f89c1c5ef4258",
+   "south": 41.64008,
+   "west": -85.78125,
+   "north": 44.08759,
+   "east": -84.375
+  },
+  {
+   "file": "michigan-6.jmv",
+   "bytes": 39296673,
+   "sha256": "8956423649e0dcec6d67035f46fc477cffa8d53311b5a7134e1d9a39f5df39b4",
+   "south": 41.67291,
+   "west": -84.375,
+   "north": 44.08759,
+   "east": -82.00195
+  }
+ ]
+}
