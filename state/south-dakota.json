@@ -1,0 +1,80 @@
+{
+ "name": "south-dakota",
+ "format": "JMVM 4",
+ "group": 56428,
+ "bytes": 218297219,
+ "pieces": [
+  {
+   "file": "south-dakota-1.jmv",
+   "bytes": 30861864,
+   "sha256": "1bcd51fa6c16d45a291aeaaf28f6173c30f0e5b368ec3c51938a711ea350b6ac",
+   "south": 44.08759,
+   "west": -104.10645,
+   "north": 45.9817,
+   "east": -102.65625
+  },
+  {
+   "file": "south-dakota-2.jmv",
+   "bytes": 28159719,
+   "sha256": "5c421a2b10e15595a4c416063f666f059cfa0a89831a101ebd722a339c2af63e",
+   "south": 44.08759,
+   "west": -102.65625,
+   "north": 45.9817,
+   "east": -101.25
+  },
+  {
+   "file": "south-dakota-3.jmv",
+   "bytes": 32515431,
+   "sha256": "c44f8560cb33d353457c05115dec37a45352e2aa85cebf0cf76853a18679c362",
+   "south": 44.08759,
+   "west": -101.25,
+   "north": 45.9817,
+   "east": -99.14062
+  },
+  {
+   "file": "south-dakota-4.jmv",
+   "bytes": 26646853,
+   "sha256": "0149483651caac5f8612407749f59346f191478458957cb9b34acffa0e577846",
+   "south": 44.08759,
+   "west": -99.14062,
+   "north": 45.9817,
+   "east": -96.37207
+  },
+  {
+   "file": "south-dakota-5.jmv",
+   "bytes": 28773755,
+   "sha256": "e7ca260604f657a6364f11be21e467f12b9c22116ee10219685f13d9d62eaec4",
+   "south": 42.94034,
+   "west": -104.10645,
+   "north": 44.08759,
+   "east": -102.65625
+  },
+  {
+   "file": "south-dakota-6.jmv",
+   "bytes": 22136146,
+   "sha256": "4efef2627d3fd0b75fa269a8f24e8a089f7c7bfda99b1273dad0252698599d88",
+   "south": 42.94034,
+   "west": -102.65625,
+   "north": 44.08759,
+   "east": -101.25
+  },
+  {
+   "file": "south-dakota-7.jmv",
+   "bytes": 24799811,
+   "sha256": "e700b4d4b8ce814dbb0c62731df4d44d5959ce8e76b80cca7f7e0cb3e3476dd6",
+   "south": 42.94034,
+   "west": -101.25,
+   "north": 44.08759,
+   "east": -99.14062
+  },
+  {
+   "file": "south-dakota-8.jmv",
+   "bytes": 24403640,
+   "sha256": "dd99fafe838c8032bf6455765c4f1e73d7fe79901f366b6e4b463dd2c55317eb",
+   "south": 42.42346,
+   "west": -99.14062,
+   "north": 44.08759,
+   "east": -96.37207
+  }
+ ]
+}
