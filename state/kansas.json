@@ -1,0 +1,62 @@
+{
+ "name": "kansas",
+ "format": "JMVM 4",
+ "group": 31654,
+ "bytes": 159782531,
+ "pieces": [
+  {
+   "file": "kansas-1.jmv",
+   "bytes": 30516129,
+   "sha256": "a12eb6068c0724b44b619b9c796557d2e19570b3dd252185f670dc8ef512588f",
+   "south": 36.94989,
+   "west": -102.12891,
+   "north": 40.04444,
+   "east": -99.84375
+  },
+  {
+   "file": "kansas-2.jmv",
+   "bytes": 21467214,
+   "sha256": "a67f52018d14a2447df330eacbb9a43b0844da94f4ab5f3120c249263bfcd74d",
+   "south": 38.82259,
+   "west": -99.84375,
+   "north": 40.04444,
+   "east": -97.73438
+  },
+  {
+   "file": "kansas-3.jmv",
+   "bytes": 39480739,
+   "sha256": "6077fb44ad2d8d1cf535b97f0a3b73e2e2ca040ad5dddf18089f24d1efde0ec6",
+   "south": 38.82259,
+   "west": -97.73438,
+   "north": 40.04444,
+   "east": -94.52637
+  },
+  {
+   "file": "kansas-4.jmv",
+   "bytes": 24787702,
+   "sha256": "d78eb828265a580d546ef9925dc4f3822ab24534099dcb9f97fcb442f33361ff",
+   "south": 36.94989,
+   "west": -99.84375,
+   "north": 38.82259,
+   "east": -97.73438
+  },
+  {
+   "file": "kansas-5.jmv",
+   "bytes": 19344898,
+   "sha256": "f2cf840c29705731025f7f179970139803ffe5751b358aee209b77aff07572af",
+   "south": 36.94989,
+   "west": -97.73438,
+   "north": 38.82259,
+   "east": -96.32812
+  },
+  {
+   "file": "kansas-6.jmv",
+   "bytes": 24185849,
+   "sha256": "97f89e9d99d99b759d9c4c30db888404a9dbc9cf47d867883f13ae4280bc3357",
+   "south": 36.94989,
+   "west": -96.32812,
+   "north": 38.82259,
+   "east": -94.52637
+  }
+ ]
+}
